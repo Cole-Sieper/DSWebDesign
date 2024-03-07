@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+}
+
+p,
+li {
+  color: green;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.Special {
+  color: deepskyblue;
+  font-weight: bold;
+}
+
+li em {
+  color: black;
+  font-weight: bold;
+}
+
+a:link {
+  color: pink;
+  font-weight: bold;
+}
+
+a:visited {
+  color: green;
+}
