@@ -1,3 +1,4 @@
+/*Styling the container*/
 .navbar {
   display: flex;
   width: 300px;
@@ -11,12 +12,14 @@
   border: 1px gray dotted;
 }
 
+/*Styling for hyperlinks*/
 .navbar > div > a {
   padding: 5px 12px;
   text-align: center;
   text-decoration: none;
 }
 
+/*Styling for buttons */
 .navbar > div {
   height: 30px;
   line-height: 30px;
