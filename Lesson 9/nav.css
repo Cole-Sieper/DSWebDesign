@@ -46,3 +46,17 @@
 .navbar > div:hover {
   background-color: bisque;
 }
+
+.leftside_images {
+  float: left;
+  width: 250px;
+  margin-right: 30px;
+  border: 1px blue solid;
+}
+
+.rightside_images {
+  float: right;
+  width: 200px;
+  margin-left: 30px;
+  border: 1px blue solid;
+}
